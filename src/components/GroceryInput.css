@@ -1,0 +1,18 @@
+.inputbox {
+    width: 220px;
+    height: 42px;
+    font-size:16px;
+    border:none;
+    padding-left: 10px;
+}
+.addbutton {
+    height: 44px;
+    border:none;
+    width: 80px;
+    position: relative;
+    top: -1px;
+    cursor: pointer;
+}
+.addbutton:hover {
+    background-color: #00CC6A;
+}
