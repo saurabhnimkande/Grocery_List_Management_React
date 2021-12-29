@@ -1,10 +1,11 @@
-import './App.css';
-import {Grocery} from "./components/Grocery";
+import "./App.css";
+import { Grocery } from "./components/Grocery";
 
 function App() {
   return (
     <div className="App">
-     <Grocery/>
+      <Grocery />
+      <h2>hello</h2>
     </div>
   );
 }
